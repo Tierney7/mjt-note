@@ -9,9 +9,9 @@ npm i uuidv4 express path fs
 node server.js
 
 ## Usage
-![alt text](assets/images/Screenshot%20(12).png))
+![alt text](assets/images/Screenshot%20(12).png)
 
-![alt text](assets/images/Screenshot%20(14).png))
+![alt text](assets/images/Screenshot%20(14).png)
 
 
 ## Credits
