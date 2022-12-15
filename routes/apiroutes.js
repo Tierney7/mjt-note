@@ -1,7 +1,6 @@
 const router = require('express').Router();
 const queries = require('../db/queries');
 
-// GET "/api/notes" responds with all notes from the database
 router.get('/notes', (req, res) => {
   queries
     .get()
